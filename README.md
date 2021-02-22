@@ -11,5 +11,5 @@ Requires JDK 11 to run. To run test you might need to edit file paths to the tes
 
 Running GlobalTest.java runs the program through a cycle of given tests. Tests can be added in the same format of existing tests. 
 
-The testing program outputs an object Graph that contains the shortest path between each region. The program can be easily edited to print to a .txt file if needed.
+The testing program outputs an Graph object that contains the shortest path between each region. The program can be easily edited to print to a .txt file if needed.
 
