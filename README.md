@@ -2,7 +2,7 @@
 
 # Description
 
-This is a program that connects regions by the shortest path. It is based off of airport networks and can be used to find the shortest distance with connecting flights.
+This is a program that connects regions by the shortest path using Dijkstra's algorithm. It is based off of airport networks and can be used to find the shortest distance with connecting flights.
 It can be used to link two airports or two regions of airports based off of input files.
 
 # Usage
